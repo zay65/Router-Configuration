@@ -8,3 +8,7 @@ Repo where I've configured a router with host/domain names, a local user acct wi
 <p align="center">
     <img src="https://github.com/zay65/Router-Configuration/blob/7423c1c7a10de1c43a39ff016ced6c31410bb3ec/remote%20mgmt%20%26%20IP%20address%20assngmt.png" alt="Sample Image"/>
   </p>
+
+<p align="center">
+    <img src="https://github.com/zay65/Router-Configuration/blob/2a41c4f92e7eafc5974bff0b53ae4e9843dd9c95/IP%20Interface%20Brief.png" alt="Sample Image"/>
+  </p>
